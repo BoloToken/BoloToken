@@ -34,7 +34,4 @@
 > Puedes utilizar BoloToken para el envío y recepción de remesas, evitando así el alto costo en comisiones y demora de los servicios tradicionales.
 
 [www.bolotoken.com](http://bolotoken.com/ "www.bolotoken.com")
-.
-.
-.
-.
+($BOLO)
